@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Alberto</h1>
-<h3 align="center">Soy estudiante de informática en el Instituto Tecnológico Superior de Monclova.</h3>
+<h1 align="center">Hi 👋, I'm Alberto Salazar</h1>
+<h3 align="center">Matricula: I18050517 | Correo: I18050517@monclova.tecnm.mx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alversalazar&label=Profile%20views&color=0e75b6&style=flat" alt="alversalazar" /> </p>
 
